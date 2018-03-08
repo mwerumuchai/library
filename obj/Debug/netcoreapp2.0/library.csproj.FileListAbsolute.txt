@@ -1,0 +1,10 @@
+/home/muchai/Desktop/library/bin/Debug/netcoreapp2.0/library.deps.json
+/home/muchai/Desktop/library/bin/Debug/netcoreapp2.0/library.runtimeconfig.json
+/home/muchai/Desktop/library/bin/Debug/netcoreapp2.0/library.runtimeconfig.dev.json
+/home/muchai/Desktop/library/bin/Debug/netcoreapp2.0/library.dll
+/home/muchai/Desktop/library/bin/Debug/netcoreapp2.0/library.pdb
+/home/muchai/Desktop/library/obj/Debug/netcoreapp2.0/library.csproj.CoreCompileInputs.cache
+/home/muchai/Desktop/library/obj/Debug/netcoreapp2.0/library.AssemblyInfoInputs.cache
+/home/muchai/Desktop/library/obj/Debug/netcoreapp2.0/library.AssemblyInfo.cs
+/home/muchai/Desktop/library/obj/Debug/netcoreapp2.0/library.dll
+/home/muchai/Desktop/library/obj/Debug/netcoreapp2.0/library.pdb
